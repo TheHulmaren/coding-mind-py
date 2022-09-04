@@ -1,0 +1,10 @@
+[Joe Biden]
+Age: 34, Sex: Male, Status: Premium
+[Donald Trump]
+Age: 56, Sex: Male, Status: Limited
+[Vladimir Putin]
+Age: 69, Sex: Female, Status: Terminated
+[Volodimir Zelensky]
+Age: 25, Sex: Male, Status: VVIP
+[Yoon Seokyul]
+Age: 61, Sex: Male, Status: Premium
